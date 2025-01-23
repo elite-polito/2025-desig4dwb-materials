@@ -6,8 +6,8 @@ Material for the _[Human-AI Interaction](https://bit.ly/polito-design4dwb)_ cour
 
 * [Introduction and Fundamentals](./slides/01-intro.pdf)
 * [The Dark (Patterns) Side of UX Design](./slides/01b-acdps.pdf)
-* The End-User Perspective
-* Theories in Digital Wellbeing Research
+* [The End-User Perspective](./slide/02a-end-user-perspective.pdf)
+* [Theories in Digital Wellbeing Research](./slide/02b-theories.pdf)
 * The Designer Perspective
 * Heuristic Evaluation
 * The Regulatory Perspective
